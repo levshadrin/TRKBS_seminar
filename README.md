@@ -1,4 +1,4 @@
-# TRKBS_seminar
+# Transkribus Seminar (UIBK)
 This repository contains manuscript images that can be used to experiment with Transkribus HTR recognition.
 
 # Image sources
